@@ -5,3 +5,4 @@ streamlit
 langchain_community
 langserve
 groq
+langchain-groq
