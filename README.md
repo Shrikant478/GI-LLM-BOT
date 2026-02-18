@@ -9,7 +9,7 @@
 An AI-powered chatbot built using **Groq LLMs**, **LangChain**, and **Streamlit**, designed to demonstrate real-world Large Language Model (LLM) integration with a clean and interactive web interface.
 
 🌐 **Live Demo:** https://protonova.streamlit.app  
-👨‍💻 **Built By:** Shrikant Rajput  
+👨‍💻 **Built By:** Shrikant
 
 ---
 
